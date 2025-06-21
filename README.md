@@ -109,20 +109,3 @@ PR dan ide baru silakan dibuka atau kontak admin repo.
 ---
 
 ```
-
----
-
-### **Penjelasan:**
-- README di atas sudah cocok untuk publik atau pribadi.
-- Sudah menjelaskan semua langkah, fitur, cara setup, hingga keterangan untuk end-user.
-- **File utama** disebut `endec.py` sesuai permintaan kamu.
-
----
-
-**Kalau mau tambahan badge, keterangan lebih panjang, atau branding repo, tinggal bilang!**  
-Butuh README dalam bahasa Inggris juga boleh 👍
-
----
-
-**Selamat mencoba bot Telegram-mu!**
-```
